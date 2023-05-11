@@ -23,7 +23,7 @@ function Home() {
                 width: 100,
                 margin: 10
             }} title={"Teste"} onClick={() => navigate("exemple2")}>
-                <span>Squat 2</span>
+                <span>Front Elevation</span>
             </button>
         </div>
     );
